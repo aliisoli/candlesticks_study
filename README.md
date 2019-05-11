@@ -24,6 +24,12 @@ Would love to hear your thoughts and comments
 clone this repo:
 https://github.com/aliisoli/Candlesticks_Study.git
 
+# Requirements
+Python 3.6 was used with the following libraries:
+- Pandas
+- Numpy
+- Matplotlib
+
 # File Descriptions:
 **Candlesticks_Historical_Analysis.ipynb**
 Jupyter Notebook containing the detailed steps of the analysis
@@ -42,11 +48,6 @@ Historical daily trading information of Google stock, for further investigations
 
 **FB.csv**
 Historical daily trading information of Facebook stock, for further investigations by the interested reader
-
-# Requirements
-- Pandas
-- Numpy
-- Matplotlib
 
 # License
 Feel free to download and use the code
