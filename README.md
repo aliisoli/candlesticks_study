@@ -16,4 +16,40 @@ This function was used to repeat the process on other stocks and the results wer
 
 Interesting conclusions were drawn at the end. 
 
+There is a less technical version of this study available on:
+https://medium.com/@ali.soleymani.co/should-i-use-candlestick-patterns-to-trade-2c703f1b3fad
 Would love to hear your thoughts and comments
+
+# Installation:
+clone this repo:
+https://github.com/aliisoli/Candlesticks_Study.git
+
+# File Descriptions:
+**Candlesticks_Historical_Analysis.ipynb**
+Jupyter Notebook containing the detailed steps of the analysis
+
+**AAPL.csv**
+Historical daily trading information of Apple stock
+
+**AMZN.csv**
+Historical daily trading information of Amazon stock
+
+**NFLX.csv**
+Historical daily trading information of Netflix stock
+
+**GOOG.csv**
+Historical daily trading information of Google stock, for further investigations by interested the reader
+
+**FB.csv**
+Historical daily trading information of Facebook stock, for further investigations by the interested reader
+
+# Requirements
+- Pandas
+- Numpy
+- Matplotlib
+
+# License
+Feel free to download and use the code
+
+# Disclaimer
+This post is by no means providing financial advice and anyone who wishes to trade any commodities or securities should do so at their own rist
